@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 28 12:13:49 2023
 
-@author: user
-"""
 
 print("Welcome to my simple calculator")
 
